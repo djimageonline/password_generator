@@ -4,15 +4,21 @@ body {
 }
 
 .container {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 550px;
+  margin-top: 70px;
+  margin-left: 50px;
+  margin-right: 50px;
+
   height: 550px;
-  left: 642px;
-  top: 64px;
   text-align: center;
   border: 2px solid black;
+}
+
+.content-container {
+  height: 400px;
+  margin-top: 40px;
+  display: block;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
@@ -62,6 +68,8 @@ color: #6B7280;
   height: 39px;
   left: 52px;
   top: 396px;
+  color:#5DEF92;
+  margin-top: 10px;
 
   background: #273549;
   border-radius: 6px;
