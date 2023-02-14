@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #ECFDF5;
+}
+
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  height: 550px;
+  left: 642px;
+  top: 64px;
+  text-align: center;
+  border: 2px solid black;
+}
